@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Arditi test webpage # the main title
+title: My test webpage # the main title
 
-tagline: Wellcome to Arditi's test Github webpage # it will display as the sub-title
+tagline: Wellcome to my Github test webpage # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: Sotrikk # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Rafael Rodrigues
+  email: rafaelloninja903@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.cdninstagram.com/v/t51.2885-19/441601996_1126576891902570_7558416718498420889_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=m6E69WuBUSgQ7kNvgHZN-5j&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYADPBeAbNXUYehq0wxDnxO8Oovp1WbR1rrOZmjkX4MDRA&oe=664D1D26&_nc_sid=10d13b
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
