@@ -1,14 +1,13 @@
 ---
 title: My first post
 date: 2024-05-21 09:50:00 0
-author: Rafael Rodrigues
 categories: []
 tags: []
 ---
 
 # Welcome! Let me introduce myselft!
 
-Hi, my name is Rafael and welcome to my personal github webpage. I'm a 17 years old Luso-Brazilian student learning IT and at the moment I'm making this post I'm doing my first internship at Arditi.
+Hi, my name is `Rafael` and welcome to my personal github webpage. I'm a 17 years old Luso-Brazilian student learning IT and at the moment I'm making this post I'm doing my first internship at Arditi.
 
 If you want to check some of my works I'll list them down here:
 
