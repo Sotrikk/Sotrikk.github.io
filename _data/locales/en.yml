@@ -20,7 +20,7 @@ tabs:
 search:
   hint: search
   cancel: Cancel
-  no_results: Oops! We found nothing :(.
+  no_results: Oops! We found nothing (for now)...
 
 panel:
   lastmod: Recently Updated
@@ -44,11 +44,11 @@ meta: Did you find something wrong? Please contact-me!
 # meta: Using the :THEME theme for :PLATFORM
 
 not_found:
-  statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+  statment: Sorry, unless you wanted to create a new page, this URL doesn't exist.
 
 notification:
   update_found: Look! A new version! Let's update it!
-  update: Update!
+  update: Launch update!
 
 # ----- Posts related labels -----
 
